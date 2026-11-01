@@ -111,16 +111,6 @@ _My solutions for the Advent of Code 2025 programming puzzles (I have been solvi
 
 ---
 
-### 📜 Certifications
-
-- **Microsoft Certified**: Azure AI Engineer Associate
-- **Microsoft Certified**: Azure Data Scientist Associate
-- **Microsoft Certified**: Azure Developer Associate
-- **DataCamp**: Data Scientist Associate
-- **McKinsey.org**: Forward Program Alum
-
----
-
 <div align="center">
   <sub>Let's connect! Reach out via <a href="https://www.linkedin.com/in/novotnyradekcz/">LinkedIn</a> or drop me an <a href="mailto:novotnyradekcz@gmail.com">email</a>.</sub>
 </div>
