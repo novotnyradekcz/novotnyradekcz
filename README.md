@@ -67,7 +67,7 @@ _An interactive character builder web application for the tabletop RPG *Jeskyně
 
 * **Technical details:** Full-stack client-side application leveraging component-driven architecture, reactive UI state binding, and structured data models for characters.
 
-![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) ![](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 
 ---
 
