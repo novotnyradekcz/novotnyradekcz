@@ -61,7 +61,53 @@ I am a software engineer and researcher working at the intersection of **distrib
 
 ### 💡 Featured Repositories
 
-- 👷 Under construction 🚧
+### [CharacterCreator](https://github.com/novotnyradekcz/CharacterCreator)
+
+_An interactive character builder web application for the tabletop RPG *Jeskyně a draci* (Czech system based on 5e DnD)._
+
+* **Technical details:** Full-stack client-side application leveraging component-driven architecture, reactive UI state binding, and structured data models for characters.
+
+![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) ![](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+
+---
+
+### [ai-agentic-system](https://github.com/novotnyradekcz/ai-agentic-system)
+
+_An autonomous multi-agent system designed for orchestrated multi-step reasoning, contextual planning, and task execution._
+
+* **Technical details:** Directed agent workflows with deterministic schema-bound tool selection, state persistence across reasoning loops, and vector-backed knowledge recall.
+
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![](https://img.shields.io/badge/Vector_DB-4B8BBE?style=flat-square) ![](https://img.shields.io/badge/LLM_Agents-000000?style=flat-square&logo=openai&logoColor=white) ![](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square)
+
+---
+
+### [42-ft-transcendence](https://github.com/novotnyradekcz/42-ft-transcendence)
+
+_Real-time social web platform featuring live gameplay lobbies, messaging, forums, and account management (42 School Common Core Capstone – group project with three other 42 Prague students)._
+
+* **Technical details:** High-performance microservices architecture with real-time WebSocket state reconciliation, two-factor authentication (2FA), and containerized deployments.
+ 
+![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### [pokedexcli](https://github.com/novotnyradekcz/pokedexcli)
+
+_A terminal REPL game and navigation tool to explore regions, inspect Pokémon, and manage an in-memory Pokédex using the PokéAPI._
+
+* **Technical details:** Interactive command dispatch loop featuring a concurrent, thread-safe memory cache with configurable TTL to minimize upstream HTTP requests.
+
+![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![](https://img.shields.io/badge/PokéAPI-EF5350?style=flat-square) ![](https://img.shields.io/badge/REST_APIs-005571?style=flat-square) ![](https://img.shields.io/badge/CLI_REPL-4D4D4D?style=flat-square)
+
+---
+
+### [advent-of-code-2025](https://github.com/novotnyradekcz/advent-of-code-2025)
+
+_My solutions for the Advent of Code 2025 programming puzzles (I have been solving AoC since 2022)._
+
+* **Technical details:** Interactive Jupyter notebooks implementing graph traversal, dynamic programming, and computational logic with step-by-step problem explanations.
+
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![](https://img.shields.io/badge/Algorithms-107C41?style=flat-square) ![](https://img.shields.io/badge/Data_Structures-555555?style=flat-square)
 
 ---
 
